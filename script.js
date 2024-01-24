@@ -17,6 +17,7 @@ function compareValues(a,b){
         return "not equal";
     }
 }
+
 // result examples
 /* 
 let showResult1 = compareValues("5",5);
@@ -49,6 +50,7 @@ function fahrenheitToCelsius(temperature) {
         return false;
     }
 }
+
 // result examples
 /*
 let checkResult1 = fahrenheitToCelsius(64);
